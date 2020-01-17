@@ -1,0 +1,9 @@
+c:\users\sefad\source\repos\Kısayol Virüsü Temizleme\Kısayol Virüsü Temizleme\bin\Debug\Kısayol Virüsü Temizleme.exe
+c:\users\sefad\source\repos\Kısayol Virüsü Temizleme\Kısayol Virüsü Temizleme\bin\Debug\Kısayol Virüsü Temizleme.pdb
+c:\users\sefad\source\repos\Kısayol Virüsü Temizleme\Kısayol Virüsü Temizleme\obj\Debug\Kısayol Virüsü Temizleme.csprojAssemblyReference.cache
+c:\users\sefad\source\repos\Kısayol Virüsü Temizleme\Kısayol Virüsü Temizleme\obj\Debug\Kısayol_Virüsü_Temizleme.Properties.Resources.resources
+c:\users\sefad\source\repos\Kısayol Virüsü Temizleme\Kısayol Virüsü Temizleme\obj\Debug\Kısayol Virüsü Temizleme.csproj.GenerateResource.cache
+c:\users\sefad\source\repos\Kısayol Virüsü Temizleme\Kısayol Virüsü Temizleme\obj\Debug\Kısayol Virüsü Temizleme.csproj.CoreCompileInputs.cache
+c:\users\sefad\source\repos\Kısayol Virüsü Temizleme\Kısayol Virüsü Temizleme\obj\Debug\Kısayol Virüsü Temizleme.exe
+c:\users\sefad\source\repos\Kısayol Virüsü Temizleme\Kısayol Virüsü Temizleme\obj\Debug\Kısayol Virüsü Temizleme.pdb
+c:\users\sefad\source\repos\Kısayol Virüsü Temizleme\Kısayol Virüsü Temizleme\obj\Debug\Kısayol_Virüsü_Temizleme.frmAnaMenu.resources
